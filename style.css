@@ -19,7 +19,7 @@ div{
 }
 ul{
     display: flex;
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
     justify-content: space-between;
     align-items: center;
     width: 40%;
@@ -29,7 +29,7 @@ ul{
 
 @media only screen and (min-width: 600px) {
     div{
-        background-color: violet;
+        /* background-color: violet; */
         border: 1px solid ;
         display: flex;
 
